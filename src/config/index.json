@@ -53,12 +53,12 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 320 2487648",
+        "description": "+57 300 123456",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "lopez30betty@gmail.com",
+        "description": "@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
