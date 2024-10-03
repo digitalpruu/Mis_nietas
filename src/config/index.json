@@ -36,12 +36,12 @@
     "items": [
       {
         "title": "Productos",
-        "description": "Las Nietas es un homenaje a la tradición y el arte del tejido. Ofrecemos una variedad de accesorios y artículos decorativos, todos ellos hechos a mano con técnicas ancestrales que han pasado de generación en generación.",
+        "description": "Mis Nietas es un homenaje a la tradición el arte del tejido, pedrería, y alta costura; También se elabora muñecas de trapo ofreciendo a  nuestra clientela diseños personalizados.  Ofrecemos una variedad de accesorios y artículos decorativos, todos ellos hechos a mano con técnicas ancestrales que han pasado de generación en generación.",
         "img": "/assets/images/1.png"
       },
       {
         "title": "Nuestro Compromiso",
-        "description": "Nuestro compromiso es mantener viva la herencia cultural y ofrecer productos que aporten calidez y belleza a tu hogar.",
+        "description": "Nuestro compromiso es mantener viva la herencia cultural y ofrecer productos que aporten calidez y belleza a tu hogar encuentre su detralle perfecto.",
         "img": "/assets/images/logo.png"
       }
     ]
@@ -53,18 +53,18 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 311 5012348",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "@gmail.com",
+        "description": "misnietasfavoritas.2019@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        "name": "Facebook",
+        "description": "Mis Nietas",
+        "icon": "/assets/images/facebook.jpg"
       },
       {
         "name": "Facebook",
